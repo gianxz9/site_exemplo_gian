@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3, h4, h5, p, span {
 	margin: 0;
-	color: #FFFFFF;
+	color: #000000;
 }
 
 .container {
@@ -27,7 +27,7 @@ header {
 }
 
 /* navbar */
-nav { 
+nav {
 	position: fixed;
 	top: 0;
 	height: 100px;
@@ -47,11 +47,11 @@ nav {
  	max-width: 1200px;
  	position: relative;
  	margin-right: auto;
- 	margin-left: auto; 	
+ 	margin-left: auto;
  }
 
  #logo {
- 	width: 50px;
+ 	width: 100px;
  	height: 50px;
  	margin-top: 25px;
  }
@@ -106,7 +106,7 @@ nav {
  #search-form p {
  	margin-top: 30px;
  	margin-bottom: 60px;
- 	font-size: 18px;
+ 	font-size: 30px;
  	font-weight: 300px;
  }
 
